@@ -67,7 +67,7 @@ alignItems: 'center'
               Entrepreneurship
               </h2>
               <h4 style={styles.text}>
-                something here
+                
               </h4>
       </Link>
 </button>
